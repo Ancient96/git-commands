@@ -1,0 +1,15 @@
+git add- adds the file to your local repository and stages if for commit
+
+git commit- commits the tracked changes and prepare them to be pushed to a remote repository
+
+git branch- creates isolated development environments within a single repository
+
+git checkout- navigate between existing branches 
+
+git clone- creates a copy of an existing git repository 
+
+git log- lets you explore the previous revisions of a project
+
+git pull- downloads a branch from a remote repository then merges it into the current branch
+
+git merge- integrates way to integrate divergent branches
